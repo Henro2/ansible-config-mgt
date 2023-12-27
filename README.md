@@ -85,6 +85,16 @@ withing the playbooks folder, i created common.yml file . and witin inventory fo
 
 ![Alt text](<images/Unsaved Image 15.jpg>)
 
+-  I updated my repo with the codes and pull request 
+
+![Alt text](<images/Unsaved Image 16.jpg>)
+
+-  I set up my vscode to connect to my instance so i can start running my playbook. 
+  
+   ![Alt text](<images/Unsaved Image17.jpg>)
+
+   
+
 
 
 
