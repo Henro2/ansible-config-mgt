@@ -93,7 +93,9 @@ withing the playbooks folder, i created common.yml file . and witin inventory fo
   
    ![Alt text](<images/Unsaved Image17.jpg>)
 
-   
+   -  I ran my first playbook 
+
+
 
 
 
