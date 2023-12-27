@@ -68,6 +68,23 @@ withing the playbooks folder, i created common.yml file . and witin inventory fo
 
 ![Alt text](<images/Unsaved Image 12.jpg>)
 
--  I spined up 4 Rhel8 instances for NFS,web1, web2, and Db, and tested that i caould connect to them using ssh ec2-user@their ip address. it was successful as shown bellow.
+-  I spined up 4 Rhel8 instances for NFS,web1, web2, and Db, and tested that i caould connect to them using ssh ec2-user@their ip address. it was successful as shown bellow. I also spined up another ubuntu instance which is going to be the load balancer
 
-  
+  ![Alt text](<images/Unsaved Image 13.jpg>)
+
+
+  -  I updatad the inventory/dev folder with the ip addresses of my 5 servers acording to the group they belong.
+
+ ![Alt text](<images/Unsaved Image 14.jpg>)
+
+
+
+
+- I also updated the file common.yml with the playbook task. as shown bellow 
+
+
+![Alt text](<images/Unsaved Image 15.jpg>)
+
+
+
+
