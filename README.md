@@ -93,9 +93,17 @@ withing the playbooks folder, i created common.yml file . and witin inventory fo
   
    ![Alt text](<images/Unsaved Image17.jpg>)
 
-   -  I ran my first playbook 
+   -  I ran my first playbook and i was a success as shown bellow:
 
 
+![Alt text](<images/Unsaved Image 18.jpg>)
+
+ -  Using ssh ec2-user@172-31-38-51, i ssh into my nfs server and confirmed that wireshark was successfully installed 
+
+ ![Alt text](<images/Unsaved Image 19.jpg>)
+
+
+ ## PROJECT COMPLETED
 
 
 
