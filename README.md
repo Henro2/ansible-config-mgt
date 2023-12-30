@@ -106,6 +106,6 @@ withing the playbooks folder, i created common.yml file . and witin inventory fo
  ## PROJECT COMPLETED
 
 
-
+build
 
 
