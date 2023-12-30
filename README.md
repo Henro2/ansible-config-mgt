@@ -103,7 +103,7 @@ withing the playbooks folder, i created common.yml file . and witin inventory fo
  ![Alt text](<images/Unsaved Image 19.jpg>)
 
 
- ## PROJECT COMPLETED and 
+ ## PROJECT COMPLETED 
 
 
 
